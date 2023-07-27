@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BMS.UserInterface", "BMS.UserInterface\BMS.UserInterface.csproj", "{D995D0D9-A2B7-4566-B975-8381001B7581}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BMS.Application", "BMS.Application\BMS.Application.csproj", "{8DED4AC8-CBF2-479E-920F-F0087B08C736}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D995D0D9-A2B7-4566-B975-8381001B7581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D995D0D9-A2B7-4566-B975-8381001B7581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D995D0D9-A2B7-4566-B975-8381001B7581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D995D0D9-A2B7-4566-B975-8381001B7581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DED4AC8-CBF2-479E-920F-F0087B08C736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DED4AC8-CBF2-479E-920F-F0087B08C736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DED4AC8-CBF2-479E-920F-F0087B08C736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DED4AC8-CBF2-479E-920F-F0087B08C736}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D8232B1-50CE-4E4C-8A1B-AE9030935C9F}
+	EndGlobalSection
+EndGlobal

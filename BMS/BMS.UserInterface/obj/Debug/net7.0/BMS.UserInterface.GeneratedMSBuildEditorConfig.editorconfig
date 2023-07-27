@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BMS.UserInterface
+build_property.RootNamespace = BMS.UserInterface
+build_property.ProjectDir = C:\GitProjects\BarangayManagementSystem\BMS\BMS.UserInterface\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\GitProjects\BarangayManagementSystem\BMS\BMS.UserInterface
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Admin/Configuration/Notification/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29uZmlndXJhdGlvblxOb3RpZmljYXRpb25cRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Admin/Configuration/Notification/_PageAction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29uZmlndXJhdGlvblxOb3RpZmljYXRpb25cX1BhZ2VBY3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Admin/Configuration/PortalSetting/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29uZmlndXJhdGlvblxQb3J0YWxTZXR0aW5nXEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Admin/Configuration/PortalSetting/_PageAction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29uZmlndXJhdGlvblxQb3J0YWxTZXR0aW5nXF9QYWdlQWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Admin/Configuration/SecurityConfig/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29uZmlndXJhdGlvblxTZWN1cml0eUNvbmZpZ1xGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Admin/Configuration/SecurityConfig/_PageAction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29uZmlndXJhdGlvblxTZWN1cml0eUNvbmZpZ1xfUGFnZUFjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Admin/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Admin/UserSecurity/RegisterAccount/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlclNlY3VyaXR5XFJlZ2lzdGVyQWNjb3VudFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Admin/UserSecurity/RegisterAccount/_PageAction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlclNlY3VyaXR5XFJlZ2lzdGVyQWNjb3VudFxfUGFnZUFjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Admin/UserSecurity/UserAccount/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlclNlY3VyaXR5XFVzZXJBY2NvdW50XEZvcm0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Admin/UserSecurity/UserAccount/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlclNlY3VyaXR5XFVzZXJBY2NvdW50XExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Admin/UserSecurity/UserAccount/_PageAction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlclNlY3VyaXR5XFVzZXJBY2NvdW50XF9QYWdlQWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9yZ290UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Registration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/GitProjects/BarangayManagementSystem/BMS/BMS.UserInterface/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-227ps8ei4w
