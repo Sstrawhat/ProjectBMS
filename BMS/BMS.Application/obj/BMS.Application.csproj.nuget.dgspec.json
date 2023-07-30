@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitProjects\\BarangayManagementSystem\\BMS\\BMS.Application\\BMS.Application.csproj": {}
+    "C:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\BMS.Application.csproj": {}
   },
   "projects": {
-    "C:\\GitProjects\\BarangayManagementSystem\\BMS\\BMS.Application\\BMS.Application.csproj": {
+    "C:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\BMS.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitProjects\\BarangayManagementSystem\\BMS\\BMS.Application\\BMS.Application.csproj",
+        "projectUniqueName": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\BMS.Application.csproj",
         "projectName": "BMS.Application",
-        "projectPath": "C:\\GitProjects\\BarangayManagementSystem\\BMS\\BMS.Application\\BMS.Application.csproj",
+        "projectPath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\BMS.Application.csproj",
         "packagesPath": "C:\\Users\\Ash\\.nuget\\packages\\",
-        "outputPath": "C:\\GitProjects\\BarangayManagementSystem\\BMS\\BMS.Application\\obj\\",
+        "outputPath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

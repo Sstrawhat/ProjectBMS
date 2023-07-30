@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitProjects\\BarangayManagementSystem\\BMS\\BMS.UserInterface\\BMS.UserInterface.csproj",
+      "projectUniqueName": "C:\\Projects\\ProjectBMS\\BMS\\BMS.UserInterface\\BMS.UserInterface.csproj",
       "projectName": "BMS.UserInterface",
-      "projectPath": "C:\\GitProjects\\BarangayManagementSystem\\BMS\\BMS.UserInterface\\BMS.UserInterface.csproj",
+      "projectPath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.UserInterface\\BMS.UserInterface.csproj",
       "packagesPath": "C:\\Users\\Ash\\.nuget\\packages\\",
-      "outputPath": "C:\\GitProjects\\BarangayManagementSystem\\BMS\\BMS.UserInterface\\obj\\",
+      "outputPath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.UserInterface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,8 +57,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\GitProjects\\BarangayManagementSystem\\BMS\\BMS.Application\\BMS.Application.csproj": {
-              "projectPath": "C:\\GitProjects\\BarangayManagementSystem\\BMS\\BMS.Application\\BMS.Application.csproj"
+            "C:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\BMS.Application.csproj": {
+              "projectPath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\BMS.Application.csproj"
             }
           }
         }

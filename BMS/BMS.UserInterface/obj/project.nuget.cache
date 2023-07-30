@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y4p45cGg892/j3Rgpm1VwpgnjDft3s/W+e2NsQ+kZi98u6VgvnBL8sdTZXfIoqAaTubBpwoUZvu9Ua1242V0eg==",
+  "dgSpecHash": "LlTdBUWOavCX3z0XrNtq1YclchTAHVAZxefcyqQmzfe0qbEjq+nwrrDLd3QqWGkyzj+vW0hX2EA+tu2hDrR8ZQ==",
   "success": true,
-  "projectFilePath": "C:\\GitProjects\\BarangayManagementSystem\\BMS\\BMS.UserInterface\\BMS.UserInterface.csproj",
+  "projectFilePath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.UserInterface\\BMS.UserInterface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

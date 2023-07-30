@@ -10,3 +10,15 @@ C:\GitProjects\BarangayManagementSystem\BMS\BMS.Application\obj\Debug\net7.0\BMS
 C:\GitProjects\BarangayManagementSystem\BMS\BMS.Application\obj\Debug\net7.0\refint\BMS.Application.dll
 C:\GitProjects\BarangayManagementSystem\BMS\BMS.Application\obj\Debug\net7.0\BMS.Application.pdb
 C:\GitProjects\BarangayManagementSystem\BMS\BMS.Application\obj\Debug\net7.0\ref\BMS.Application.dll
+C:\Projects\ProjectBMS\BMS\BMS.Application\bin\Debug\net7.0\BMS.Application.deps.json
+C:\Projects\ProjectBMS\BMS\BMS.Application\bin\Debug\net7.0\BMS.Application.dll
+C:\Projects\ProjectBMS\BMS\BMS.Application\bin\Debug\net7.0\BMS.Application.pdb
+C:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\BMS.Application.csproj.AssemblyReference.cache
+C:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\BMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\BMS.Application.AssemblyInfoInputs.cache
+C:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\BMS.Application.AssemblyInfo.cs
+C:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\BMS.Application.csproj.CoreCompileInputs.cache
+C:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\BMS.Application.dll
+C:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\refint\BMS.Application.dll
+C:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\BMS.Application.pdb
+C:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\ref\BMS.Application.dll

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BMS.Application
-build_property.ProjectDir = C:\GitProjects\BarangayManagementSystem\BMS\BMS.Application\
+build_property.ProjectDir = C:\Projects\ProjectBMS\BMS\BMS.Application\
