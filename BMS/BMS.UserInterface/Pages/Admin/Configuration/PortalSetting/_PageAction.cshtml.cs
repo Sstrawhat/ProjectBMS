@@ -5,7 +5,7 @@ namespace BMS.UserInterface.Pages.Admin.Configuration.PortalSetting
 {
     public class _PageActionModel : PageModel
     {
-        public PartialViewResult OnGetList()
+        public PartialViewResult OnGetForm()
         {
             return Partial("../Admin/Configuration/PortalSetting/Form");
         }

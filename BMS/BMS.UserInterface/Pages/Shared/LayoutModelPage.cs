@@ -20,12 +20,12 @@ namespace BMS.UserInterface.Pages.Shared
                         new MenuMenuDto { MenuMenuName = "Registered Account", MenuMenuLink = "../Admin/UserSecurity/RegisterAccount/_PageAction?handler=List", MenuMenuCss = "ti-control-record"},
                     }
                 },
-                new MenuModuleDto { MenuModuleName = "Configurations", MenuModuleLink = "#", MenuModuleCss = "align-self-center menu-icon fas fa-cogs",
+                new MenuModuleDto { MenuModuleName = "Configuration", MenuModuleLink = "#", MenuModuleCss = "align-self-center menu-icon fas fa-cogs",
                 MenuMenuDtos = new List<MenuMenuDto>
                     {
-                        new MenuMenuDto { MenuMenuName = "Notifications", MenuMenuLink = "../Admin/Configuration/_PageAction?handler=Form", MenuMenuCss = "ti-control-record"},
-                        new MenuMenuDto { MenuMenuName = "Security Config", MenuMenuLink = "../Admin/Configuration/_PageAction?handler=Form", MenuMenuCss = "ti-control-record"},
-                        new MenuMenuDto { MenuMenuName = "Portal Settings", MenuMenuLink = "../Admin/Configuration/_PageAction?handler=Form", MenuMenuCss = "ti-control-record"},
+                        new MenuMenuDto { MenuMenuName = "Notification", MenuMenuLink = "../Admin/Configuration/Notification/_PageAction?handler=Form", MenuMenuCss = "ti-control-record"},
+                        new MenuMenuDto { MenuMenuName = "Security Config", MenuMenuLink = "../Admin/Configuration/PortalSetting/_PageAction?handler=Form", MenuMenuCss = "ti-control-record"},
+                        new MenuMenuDto { MenuMenuName = "Portal Setting", MenuMenuLink = "../Admin/Configuration/SecurityConfig/_PageAction?handler=Form", MenuMenuCss = "ti-control-record"},
                     }
                 }
             };

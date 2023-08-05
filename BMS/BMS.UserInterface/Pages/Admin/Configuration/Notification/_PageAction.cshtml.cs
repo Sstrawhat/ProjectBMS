@@ -5,7 +5,7 @@ namespace BMS.UserInterface.Pages.Admin.Configuration.Notification
 {
     public class _PageActionModel : PageModel
     {
-        public PartialViewResult OnGetList()
+        public PartialViewResult OnGetForm()
         {
             return Partial("../Admin/Configuration/Notification/Form");
         }

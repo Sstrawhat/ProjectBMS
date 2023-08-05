@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WxJoo6dG6172AkkVD8vsjro9rJVbFCeQmpT9F8XMD09dg1Md9CLmT8APJVX7iUupfK7YR4WaXoQcZnQNyzJ1bA==",
+  "dgSpecHash": "p6+pQvcCmuDOtgCLr23IJFjlu0Kr1orpRXyJ1n1ARub+Vi2uyN80dC+3+/AjLQDBkOby+Tokpv2hMr4He8k1JA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\BMS.Application.csproj",
+  "projectFilePath": "E:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\BMS.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

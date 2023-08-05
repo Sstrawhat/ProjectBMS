@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LlTdBUWOavCX3z0XrNtq1YclchTAHVAZxefcyqQmzfe0qbEjq+nwrrDLd3QqWGkyzj+vW0hX2EA+tu2hDrR8ZQ==",
+  "dgSpecHash": "XvBJ01ZFyqMhOSFzBGcdt8vkANrI83XucxN+JSdBtOhT8O8KLh6GcP5bYWa6xODVp2E+75WVlWr+P9f0q5cYkw==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.UserInterface\\BMS.UserInterface.csproj",
+  "projectFilePath": "E:\\Projects\\ProjectBMS\\BMS\\BMS.UserInterface\\BMS.UserInterface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

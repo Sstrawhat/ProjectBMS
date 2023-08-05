@@ -22,3 +22,15 @@ C:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\BMS.Application.dll
 C:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\refint\BMS.Application.dll
 C:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\BMS.Application.pdb
 C:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\ref\BMS.Application.dll
+E:\Projects\ProjectBMS\BMS\BMS.Application\bin\Debug\net7.0\BMS.Application.deps.json
+E:\Projects\ProjectBMS\BMS\BMS.Application\bin\Debug\net7.0\BMS.Application.dll
+E:\Projects\ProjectBMS\BMS\BMS.Application\bin\Debug\net7.0\BMS.Application.pdb
+E:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\BMS.Application.csproj.AssemblyReference.cache
+E:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\BMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\BMS.Application.AssemblyInfoInputs.cache
+E:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\BMS.Application.AssemblyInfo.cs
+E:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\BMS.Application.csproj.CoreCompileInputs.cache
+E:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\BMS.Application.dll
+E:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\refint\BMS.Application.dll
+E:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\BMS.Application.pdb
+E:\Projects\ProjectBMS\BMS\BMS.Application\obj\Debug\net7.0\ref\BMS.Application.dll
