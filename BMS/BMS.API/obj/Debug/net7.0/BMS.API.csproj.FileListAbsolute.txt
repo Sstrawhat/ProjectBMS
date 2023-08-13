@@ -1,0 +1,6 @@
+C:\Projects\ProjectBMS\BMS\BMS.API\obj\Debug\net7.0\BMS.API.csproj.AssemblyReference.cache
+C:\Projects\ProjectBMS\BMS\BMS.API\obj\Debug\net7.0\BMS.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ProjectBMS\BMS\BMS.API\obj\Debug\net7.0\BMS.API.AssemblyInfoInputs.cache
+C:\Projects\ProjectBMS\BMS\BMS.API\obj\Debug\net7.0\BMS.API.AssemblyInfo.cs
+C:\Projects\ProjectBMS\BMS\BMS.API\obj\Debug\net7.0\BMS.API.csproj.CoreCompileInputs.cache
+C:\Projects\ProjectBMS\BMS\BMS.API\obj\Debug\net7.0\BMS.API.MvcApplicationPartsAssemblyInfo.cache

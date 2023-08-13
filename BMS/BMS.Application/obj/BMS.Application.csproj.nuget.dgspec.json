@@ -1,36 +1,102 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\BMS.Application.csproj": {}
+    "C:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\BMS.Application.csproj": {}
   },
   "projects": {
-    "E:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\BMS.Application.csproj": {
+    "C:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\BMS.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\BMS.Application.csproj",
+        "projectUniqueName": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\BMS.Application.csproj",
         "projectName": "BMS.Application",
-        "projectPath": "E:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\BMS.Application.csproj",
-        "packagesPath": "C:\\Users\\Ashley.Fajardo\\.nuget\\packages\\",
-        "outputPath": "E:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\obj\\",
+        "projectPath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\BMS.Application.csproj",
+        "packagesPath": "C:\\Users\\Ash\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ashley.Fajardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Ash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/algarinformationsystems/EverythingAtWork-V2/_packaging/AISCoreFeed/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/algarinformationsystems/_packaging/algarinformationsystems/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Projects\\ProjectBMS\\BMS\\BMS.Common\\BMS.Common.csproj": {
+                "projectPath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Common\\BMS.Common.csproj"
+              },
+              "C:\\Projects\\ProjectBMS\\BMS\\BMS.Domain\\BMS.Domain.csproj": {
+                "projectPath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Domain\\BMS.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\ProjectBMS\\BMS\\BMS.Common\\BMS.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Common\\BMS.Common.csproj",
+        "projectName": "BMS.Common",
+        "projectPath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Common\\BMS.Common.csproj",
+        "packagesPath": "C:\\Users\\Ash\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -63,7 +129,75 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.109\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Projects\\ProjectBMS\\BMS\\BMS.Domain\\BMS.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Domain\\BMS.Domain.csproj",
+        "projectName": "BMS.Domain",
+        "projectPath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Domain\\BMS.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ash\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

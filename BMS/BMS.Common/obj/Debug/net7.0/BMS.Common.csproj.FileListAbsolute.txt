@@ -1,0 +1,12 @@
+C:\Projects\ProjectBMS\BMS\BMS.Common\bin\Debug\net7.0\BMS.Common.deps.json
+C:\Projects\ProjectBMS\BMS\BMS.Common\bin\Debug\net7.0\BMS.Common.dll
+C:\Projects\ProjectBMS\BMS\BMS.Common\bin\Debug\net7.0\BMS.Common.pdb
+C:\Projects\ProjectBMS\BMS\BMS.Common\obj\Debug\net7.0\BMS.Common.csproj.AssemblyReference.cache
+C:\Projects\ProjectBMS\BMS\BMS.Common\obj\Debug\net7.0\BMS.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ProjectBMS\BMS\BMS.Common\obj\Debug\net7.0\BMS.Common.AssemblyInfoInputs.cache
+C:\Projects\ProjectBMS\BMS\BMS.Common\obj\Debug\net7.0\BMS.Common.AssemblyInfo.cs
+C:\Projects\ProjectBMS\BMS\BMS.Common\obj\Debug\net7.0\BMS.Common.csproj.CoreCompileInputs.cache
+C:\Projects\ProjectBMS\BMS\BMS.Common\obj\Debug\net7.0\BMS.Common.dll
+C:\Projects\ProjectBMS\BMS\BMS.Common\obj\Debug\net7.0\refint\BMS.Common.dll
+C:\Projects\ProjectBMS\BMS\BMS.Common\obj\Debug\net7.0\BMS.Common.pdb
+C:\Projects\ProjectBMS\BMS\BMS.Common\obj\Debug\net7.0\ref\BMS.Common.dll

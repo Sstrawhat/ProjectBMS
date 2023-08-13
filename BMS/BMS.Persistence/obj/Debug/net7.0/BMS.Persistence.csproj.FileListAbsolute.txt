@@ -1,0 +1,5 @@
+C:\Projects\ProjectBMS\BMS\BMS.Persistence\obj\Debug\net7.0\BMS.Persistence.csproj.AssemblyReference.cache
+C:\Projects\ProjectBMS\BMS\BMS.Persistence\obj\Debug\net7.0\BMS.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ProjectBMS\BMS\BMS.Persistence\obj\Debug\net7.0\BMS.Persistence.AssemblyInfoInputs.cache
+C:\Projects\ProjectBMS\BMS\BMS.Persistence\obj\Debug\net7.0\BMS.Persistence.AssemblyInfo.cs
+C:\Projects\ProjectBMS\BMS\BMS.Persistence\obj\Debug\net7.0\BMS.Persistence.csproj.CoreCompileInputs.cache
