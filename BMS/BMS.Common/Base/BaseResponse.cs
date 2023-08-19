@@ -12,8 +12,9 @@ namespace BMS.Common.Base
         {
             this.Message = new List<string>();
             this.Response = null;
+            this.IsSuccess = true;
         }
-        public bool IsSucces { get; set; }
+        public bool IsSuccess { get; set; }
         public List<string> Message { get; set; }
         public object Response { get; set; }
     }

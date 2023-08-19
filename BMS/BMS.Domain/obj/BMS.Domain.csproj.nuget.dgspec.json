@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\ProjectBMS\\BMS\\BMS.Domain\\BMS.Domain.csproj": {}
+    "E:\\Projects\\ProjectBMS\\BMS\\BMS.Domain\\BMS.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\ProjectBMS\\BMS\\BMS.Domain\\BMS.Domain.csproj": {
+    "E:\\Projects\\ProjectBMS\\BMS\\BMS.Domain\\BMS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Domain\\BMS.Domain.csproj",
+        "projectUniqueName": "E:\\Projects\\ProjectBMS\\BMS\\BMS.Domain\\BMS.Domain.csproj",
         "projectName": "BMS.Domain",
-        "projectPath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Domain\\BMS.Domain.csproj",
-        "packagesPath": "C:\\Users\\Ash\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\ProjectBMS\\BMS\\BMS.Domain\\obj\\",
+        "projectPath": "E:\\Projects\\ProjectBMS\\BMS\\BMS.Domain\\BMS.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ashley.Fajardo\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\ProjectBMS\\BMS\\BMS.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Ash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ashley.Fajardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +22,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/algarinformationsystems/EverythingAtWork-V2/_packaging/AISCoreFeed/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/algarinformationsystems/_packaging/algarinformationsystems/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -68,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
